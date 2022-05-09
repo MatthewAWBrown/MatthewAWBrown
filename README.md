@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MatthewAWBrown.MatthewAWBrown)](https://github.com/MatthewAWBrown)[![GitHub followers](https://img.shields.io/github/followers/MatthewAWBrown.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MatthewAWBrown?tab=followers)
 
 I am Matthew Brown, welcome to my GitHub README!<br>
-Follow me on Twitter for random thoughts on <i>Dungeons and Dragons</i> and <i>Final Fantasy XIV</i> <a href="https://twitter.com/AllMattNoMercer?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @AllMattNoMercer</a>
+
 
 ***
 
