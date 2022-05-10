@@ -25,7 +25,6 @@ I am Matthew Brown, welcome to my GitHub README!<br>
 <h2>Education</h2>
 
 - <i>Prospective 2025 graduate:</i> Honours Bachelor of Science, Computer Science (Co-op) <b>Lakehead University</b>, Thunder Bay, Ontario
-- <i>May - August 2021:</i> Bachelor of Science, Computing Information Systems <b>Athabasca University</b>, Online 
 - <i>Graduated 2020:</i> Bachelor of Music <b>Mount Allison University</b>, Sackville, New Brunswick 
 
 
