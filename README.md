@@ -37,9 +37,13 @@ __Lakehead University__
 - COMP-2430: Mobile Computing Technolgy (Flutter, Java, and SWIFT)
 
 __Athabasca University__
-- COMP 200: Intro to Computer Systems
+- COMP 200: Intro to Computer Systems (html)
 - COMP 210: Intro to Info Sys & Comp Apps (Python)
 - COMP 214: Interactive Technologies
+
+***
+
+<h2>Languages and tools</h2>
 
 
 <h3>Co-op Placements (Lakehead University)</h3>
