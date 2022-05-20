@@ -49,12 +49,14 @@ __Athabasca University__
   </p>
 
 
-
+***
 
 
 <h3>Co-op Placements (Lakehead University)</h3>
 - Summer 2022: Low-Code Developer <b>RPDU, ETD</b> Government of Ontario
 
 ***
+
+
 <h2>Current and Future Pet Projects</h2>
 I'm currently working on a small add-on module for the FoundryVTT platform that supports Dungeons and Dragons 5th Edition.
