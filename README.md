@@ -34,7 +34,7 @@ __Lakehead University__
 - COMP-1411: Computer Programming I (C)
 - COMP-1431: Computer Programming II (C++)
 - COMP-2476: Intro to Assembly Lang & Op Sys (.masm)
-- COMP-2430: Mobile Computing Technolgy (Flutter, Java, and SWIFT)
+- COMP-2430: Mobile Computing Technolgy (Flutter and React Native)
 
 __Athabasca University__
 - COMP 200: Intro to Computer Systems (html)
@@ -45,7 +45,7 @@ __Athabasca University__
 
 <h2>Languages and tools</h2>
 <p float = "left">
-<img src = "https://user-images.githubusercontent.com/104664255/168294002-65046ea7-50c5-4437-827d-a4fff893da4f.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294211-7f6ae5d3-777b-4436-a0f6-21557aefb4b1.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294384-0d509b03-38cd-4dea-bf07-c7674cb4b48f.jpg" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294472-36e9092a-886a-4a4a-8038-0913152862b4.png" height = "75">
+<img src = "https://user-images.githubusercontent.com/104664255/168294002-65046ea7-50c5-4437-827d-a4fff893da4f.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294211-7f6ae5d3-777b-4436-a0f6-21557aefb4b1.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294384-0d509b03-38cd-4dea-bf07-c7674cb4b48f.jpg" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/169539760-4c42670b-0475-4b4d-9bd0-2c00db77bf01.png" height ="75"> <img src = "https://user-images.githubusercontent.com/104664255/168294472-36e9092a-886a-4a4a-8038-0913152862b4.png" height = "75"> 
   </p>
 
 
