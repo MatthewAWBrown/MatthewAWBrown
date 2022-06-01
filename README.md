@@ -54,7 +54,7 @@ __Athabasca University__
 
 
 <h3>Co-op Placements (Lakehead University)</h3>
-- Summer 2022: Low-Code Developer <b>RPDU, ETD</b> Government of Ontario
+- Summer 2022: Low-Code Developer <b>RPDU, ETD</b> Ontario Public Service
 
 ***
 
