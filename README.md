@@ -48,7 +48,8 @@ __Athabasca University__
 <img src = "https://user-images.githubusercontent.com/104664255/168294002-65046ea7-50c5-4437-827d-a4fff893da4f.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294211-7f6ae5d3-777b-4436-a0f6-21557aefb4b1.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294384-0d509b03-38cd-4dea-bf07-c7674cb4b48f.jpg" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/169539760-4c42670b-0475-4b4d-9bd0-2c00db77bf01.png" height ="75"> <img src = "https://user-images.githubusercontent.com/104664255/168294472-36e9092a-886a-4a4a-8038-0913152862b4.png" height = "75"> 
   </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewAWBrown&layout=compact&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewAWBrown&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ***
 
