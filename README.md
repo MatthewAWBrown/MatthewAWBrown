@@ -35,6 +35,8 @@ __Lakehead University__
 - COMP-1431: Computer Programming II (C++)
 - COMP-2476: Intro to Assembly Lang & Op Sys (.masm)
 - COMP-2430: Mobile Computing Technolgy (Flutter and React Native)
+- COMP-2453: Data Structures (C++)
+- COMP-2453: Intro Computer Architecture (MIPS Assembly)
 
 __Athabasca University__
 - COMP 200: Intro to Computer Systems (html)
@@ -45,7 +47,7 @@ __Athabasca University__
 
 <h2>Languages and tools</h2>
 <p float = "left">
-<img src = "https://user-images.githubusercontent.com/104664255/168294002-65046ea7-50c5-4437-827d-a4fff893da4f.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294211-7f6ae5d3-777b-4436-a0f6-21557aefb4b1.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294384-0d509b03-38cd-4dea-bf07-c7674cb4b48f.jpg" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/169539760-4c42670b-0475-4b4d-9bd0-2c00db77bf01.png" height ="75"> <img src = "https://user-images.githubusercontent.com/104664255/168294472-36e9092a-886a-4a4a-8038-0913152862b4.png" height = "75"> 
+<img src = "https://user-images.githubusercontent.com/104664255/168294002-65046ea7-50c5-4437-827d-a4fff893da4f.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294211-7f6ae5d3-777b-4436-a0f6-21557aefb4b1.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294384-0d509b03-38cd-4dea-bf07-c7674cb4b48f.jpg" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/169539760-4c42670b-0475-4b4d-9bd0-2c00db77bf01.png" height ="75"> <img src = "https://user-images.githubusercontent.com/104664255/168294472-36e9092a-886a-4a4a-8038-0913152862b4.png" height = "75"> <img src = "https://raw.githubusercontent.com/MatthewAWBrown/MatthewAWBrown/main/mongodb-5-1175140.webp" height = "75"> <img src = "https://github.com/MatthewAWBrown/MatthewAWBrown/blob/main/node.png" height = "75">
   </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewAWBrown&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -56,6 +58,7 @@ __Athabasca University__
 
 <h3>Co-op Placements (Lakehead University)</h3>
 - Summer 2022: Low-Code Developer <b>RPDU, ETD</b> Ontario Public Service
+- Winter 2023 & Summer 2023: Low-Code Developer <b>RPDU, ETD</b> Ontario Public Service
 
 ***
 
