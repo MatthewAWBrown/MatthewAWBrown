@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Little Mage Image](250_blu.png) Professional musician, Dungeon Master dilettante, part-time wizard, aspiring code monkey, and coffee enthusiast.
+![Little Mage Image](250_blu.png) <br> Professional musician, Dungeon Master dilettante, part-time wizard, aspiring code monkey, and coffee enthusiast.
 <h2> Salut! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MatthewAWBrown.MatthewAWBrown)](https://github.com/MatthewAWBrown)[![GitHub followers](https://img.shields.io/github/followers/MatthewAWBrown.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MatthewAWBrown?tab=followers)
