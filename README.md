@@ -68,4 +68,5 @@ __Athabasca University__
 
 
 <h2>Current and Future Pet Projects</h2>
-¯\_(ツ)_/¯
+¯\_(ツ)_/¯ <br>
+A freezer inventory app at the request of my wife
