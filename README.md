@@ -40,7 +40,6 @@ __Lakehead University__
 - COMP-2430: Mobile Computing Technolgy (Flutter and React Native)
 - COMP-2412: Data Structures (C++)
 - COMP-2453: Intro Computer Architecture (MIPS Assembly)
-- COMP-2477: Object Oriented Programming
 
 __Athabasca University__
 - COMP 200: Intro to Computer Systems (html)
