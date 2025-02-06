@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/MatthewAWBrown/MatthewAWBrown/blob/main/250_blu.png">
 </p>
-<br> Professional musician, Dungeon Master dilettante, part-time wizard, aspiring code monkey, and coffee enthusiast.
+<br> Dad, Professional musician, Dungeon Master dilettante, part-time wizard, aspiring code monkey, and coffee enthusiast.
 <h2> Salut! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MatthewAWBrown.MatthewAWBrown)](https://github.com/MatthewAWBrown)[![GitHub followers](https://img.shields.io/github/followers/MatthewAWBrown.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MatthewAWBrown?tab=followers)
@@ -27,7 +27,8 @@ I am Matthew Brown, welcome to my GitHub README!<br>
 
 <h2>Education</h2>
 
-- <i>Prospective 2025 graduate:</i> Honours Bachelor of Science, Computer Science (Co-op) <b>Lakehead University</b>, Thunder Bay, Ontario
+- <i>Prospective 2027 graduate:</i> Bachelor of Computer Science <b>University of New Brunswick</b>, Fredericton, New Brunswick
+- <i>Credits transferred:</i> Honours Bachelor of Science, Computer Science (Co-op) <b>Lakehead University</b>, Thunder Bay, Ontario
 - <i>Graduated 2020:</i> Bachelor of Music <b>Mount Allison University</b>, Sackville, New Brunswick 
 
 
@@ -73,5 +74,4 @@ __Athabasca University__
 
 
 <h2>Current and Future Pet Projects</h2>
-¯\_(ツ)_/¯ <br>
-A freezer inventory app at the request of my wife
+FoundryVTT modules
