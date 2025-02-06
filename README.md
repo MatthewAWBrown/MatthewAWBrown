@@ -33,6 +33,11 @@ I am Matthew Brown, welcome to my GitHub README!<br>
 
 <h2>Completed and Current CS Courses</h2>
 
+__University of New Brunswick__
+- CS1073: Intro to Computer Programming I (Java)
+- CS1083: Intro to Computer Programming II (Java)
+- CS1103: Intro to Databases (MySQL)
+
 __Lakehead University__
 - COMP-1411: Computer Programming I (C)
 - COMP-1431: Computer Programming II (C++)
@@ -50,7 +55,8 @@ __Athabasca University__
 
 <h2>Languages and tools</h2>
 <p float = "left">
-<img src = "https://user-images.githubusercontent.com/104664255/168294002-65046ea7-50c5-4437-827d-a4fff893da4f.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294211-7f6ae5d3-777b-4436-a0f6-21557aefb4b1.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294384-0d509b03-38cd-4dea-bf07-c7674cb4b48f.jpg" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/169539760-4c42670b-0475-4b4d-9bd0-2c00db77bf01.png" height ="75"> <img src = "https://user-images.githubusercontent.com/104664255/168294472-36e9092a-886a-4a4a-8038-0913152862b4.png" height = "75"> <img src = "https://raw.githubusercontent.com/MatthewAWBrown/MatthewAWBrown/main/mongodb-5-1175140.webp" height = "75"> <img src = "https://github.com/MatthewAWBrown/MatthewAWBrown/blob/main/node.png" height = "75">
+<img src = "https://user-images.githubusercontent.com/104664255/168294002-65046ea7-50c5-4437-827d-a4fff893da4f.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294211-7f6ae5d3-777b-4436-a0f6-21557aefb4b1.png" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/168294384-0d509b03-38cd-4dea-bf07-c7674cb4b48f.jpg" height = "75"> <img src = "https://user-images.githubusercontent.com/104664255/169539760-4c42670b-0475-4b4d-9bd0-2c00db77bf01.png" height ="75"> <img src = "https://user-images.githubusercontent.com/104664255/168294472-36e9092a-886a-4a4a-8038-0913152862b4.png" height = "75"> <img src = "https://raw.githubusercontent.com/MatthewAWBrown/MatthewAWBrown/main/mongodb-5-1175140.webp" height = "75"> <img src = "https://github.com/MatthewAWBrown/MatthewAWBrown/blob/main/node.png" height = "75"><img src = "https://github.com/user-attachments/assets/4b136b07-b044-4733-8328-337d2b1f7f3d.png" height = "75">
+
   </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewAWBrown&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
